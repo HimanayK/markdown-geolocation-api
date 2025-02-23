@@ -134,5 +134,3 @@ function showPosition(position){
 >> **ABOUT ME:** 👧🏽 I'm Frontend Developer based in Stockholm, Sweden, currently working at SITA.dev. My transition into tech has been a unique and rewarding adventure, fueled by curiosity and determination. You can connect with me on [LinkedIn](https://www.linkedin.com/in/himanayk/)
 
 ---
-
-The ☞**<span style="color:#2a28be; font-size: 20px">Geolocation API</span>**☜ helps
